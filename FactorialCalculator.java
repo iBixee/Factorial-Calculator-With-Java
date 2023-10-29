@@ -1,6 +1,6 @@
 public class FactorialCalculator {
     public static void main(String[] args) {
-        int number = 3;
+        int number = 3; // Change this to the number for which you want to calculate the factorial
         long factorial = calculateFactorial(number);
         System.out.println("Factorial of " + number + " is " + factorial);
     }
